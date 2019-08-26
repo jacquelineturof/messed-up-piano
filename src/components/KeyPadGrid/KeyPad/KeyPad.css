@@ -1,0 +1,11 @@
+.drum-pad {
+    flex: 1;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    background-color: #FFD9CE;
+    color: #230C33;
+    border-radius: .1rem;
+}

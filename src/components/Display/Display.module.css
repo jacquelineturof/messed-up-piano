@@ -1,0 +1,11 @@
+.Display {
+    height: 30%;
+    width: 50%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Great Vibes', cursive;
+    color: #FFD9CE;
+    font-size: 4rem;
+}

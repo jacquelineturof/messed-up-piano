@@ -1,0 +1,7 @@
+.KeyPadGrid {
+    display: flex;
+    flex-wrap: wrap;
+    height: 40%;
+    width: 50%;
+    box-sizing: border-box;
+}
